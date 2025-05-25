@@ -11,25 +11,25 @@
 
 🎯 What You Unlock
 
-    ▶️ Support for nearly all video and audio formats
+▶️ Support for nearly all video and audio formats
 
-    ⚙️ Advanced playback options and media conversion tools
+⚙️ Advanced playback options and media conversion tools
 
-    🖥 Lightweight, stable, and cross-platform player
+🖥 Lightweight, stable, and cross-platform player
 
-    🔌 Offline installation without any online activation
+🔌 Offline installation without any online activation
 
-    🛠 Customizable interface and extensions support
+🛠 Customizable interface and extensions support
 
 🖼 Preview
 
 ![VLC Player Interface](https://images.moneycontrol.com/static-mcnews/2022/08/VLC-media.jpg?impolicy=website&width=1600&height=900)  
 *VLC media player interface showcasing video playback*
 
-![VLC Video Trimming](https://images.wondershare.com/democreator/article/trim-videos-vlc-01.jpg)  
+![VLC Video Trimming](https://mac.eltima.com/wp-content/uploads/2023/01/elmedia-header-1200x900.jpg)  
 *Using VLC to trim videos efficiently*
 
-![VLC Installation on Ubuntu](https://linuxconfig.org/wp-content/uploads/2022/03/00-ubuntu-22-04-vlc-installation.png)  
+![VLC Installation on Ubuntu](https://cdn.macstories.net/002/28442_6865662925_ec59366fa1_z.jpg)  
 *VLC installation process on Ubuntu Linux*
 
 
